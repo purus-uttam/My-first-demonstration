@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: teal;
+    
+}
+
+.container {
+    border: 10px dashed black;
+    margin: 100px ;
+    padding: 250px;
+    background-image: url(https://media.npr.org/assets/img/2013/03/21/the-croods-sq1710_s37_f129_cc_rgb_wide-87a54af61cad976770b34c477ec85226e8700d19.jpg?s=1400);
+    background-repeat: no-repeat;
+}
